@@ -11,3 +11,4 @@ Estudando para A certificação JAVA
 ## Certificação java SE 7 Programmer I: o básico de Java
 
 01. Defina o Escopo de variáveis
+02. Defina a estrutura de uma classe java

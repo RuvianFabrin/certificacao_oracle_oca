@@ -1,3 +1,4 @@
+//Quando não tem pacote está no pacote padrão, diretório raiz
 class Pessoa {
     //Toda instância nova vai referênciar a essa mesma variável
     //Variáveis estáticas posso acessar dentro de qualquer escopo
