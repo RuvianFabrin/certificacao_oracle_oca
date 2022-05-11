@@ -14,3 +14,4 @@ Estudando para A certificação JAVA
 01. Defina o Escopo de variáveis
 02. Defina a estrutura de uma classe java
 03. Crie Aplicações Java Executaveis com o método Main
+04. Import outros pacotes Java e deixe-os acessíveis ao seu código
